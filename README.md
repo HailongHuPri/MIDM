@@ -10,8 +10,8 @@ In this repository, we propose two membership inference attacks against diffusio
 - [Dataset Preparation](#Dataset-Preparation)
 - [Target Model Preparation](#Target-Model-Preparation)
 - [Membership Inference Attacks](#Membership-inference-attacks)
-  - [Loss-based Attack](#loss-based_attacks)
-  - [Likelihood-based Attack](#likelihood-based_attacks)
+  - [Loss-based Attack](##loss-based-attacks)
+  - [Likelihood-based Attack](##likelihood-based-attacks)
 
 ## Environment
 
