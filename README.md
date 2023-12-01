@@ -2,7 +2,7 @@
 
 In this repository, we propose two membership inference attacks against diffusion models, namely loss-based attack and likelihood-based attack, to infer whether a sample was used to train the model.
 
-[[Paper (arXiv)]](https://arxiv.org/abs/2301.09956) [Paper (ISC2023)]
+[[Paper (arXiv)]](https://arxiv.org/abs/2301.09956) [Paper (ISC2023)](https://orbilu.uni.lu/handle/10993/58604)
 
 ## Table of Contents
 
